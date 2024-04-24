@@ -350,18 +350,15 @@ class Factory(object):
             "Accident_rate": (self._total_accidents / total_workstations) * 100
         }
 
-        # Cargar datos existentes si el archivo existe
         existing_metrics = []
         try:
             with open("metrics.json", "r") as json_file:
                 existing_metrics = json.load(json_file)
         except (FileNotFoundError, json.JSONDecodeError):
-            pass  # El archivo aún no existe o está vacío o no es JSON válido
+            pass  
 
-        # Agregar nuevos datos a la lista existente
         existing_metrics.append(metrics_data)
 
-        # Guardar la lista actualizada en el archivo metrics.json
         with open("metrics.json", "w") as json_file:
             json.dump(existing_metrics, json_file, indent=4)
 
