@@ -1,0 +1,1382 @@
+[
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 41.57457785802228,
+            "Workstation 2": 41.57457785802228,
+            "Workstation 3": 41.57457785802228,
+            "Workstation 4": 41.57457785802228,
+            "Workstation 5": 41.57457785802228,
+            "Workstation 6": 41.57457785802228
+        },
+        "Production_rejection_by_number": 6,
+        "Production_rejection_percentage": 6.593406593406594,
+        "Average_delay_time": 249.4474671481334,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 46.33745914857389,
+            "Workstation 2": 46.33745914857389,
+            "Workstation 3": 46.33745914857389,
+            "Workstation 4": 46.33745914857389,
+            "Workstation 5": 46.33745914857389,
+            "Workstation 6": 46.33745914857389
+        },
+        "Production_rejection_by_number": 7,
+        "Production_rejection_percentage": 7.6923076923076925,
+        "Average_delay_time": 278.0247548914431,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 94,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 1.0,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 41.589575764158866,
+            "Workstation 2": 41.589575764158866,
+            "Workstation 3": 41.589575764158866,
+            "Workstation 4": 41.589575764158866,
+            "Workstation 5": 41.589575764158866,
+            "Workstation 6": 41.589575764158866
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.25531914893617,
+        "Average_delay_time": 249.53745458495317,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 86,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 66.4217534320004,
+            "Workstation 2": 66.4217534320004,
+            "Workstation 3": 66.4217534320004,
+            "Workstation 4": 66.4217534320004,
+            "Workstation 5": 66.4217534320004,
+            "Workstation 6": 66.4217534320004
+        },
+        "Production_rejection_by_number": 7,
+        "Production_rejection_percentage": 8.13953488372093,
+        "Average_delay_time": 398.5305205920023,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 95,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.32857347792991,
+            "Workstation 2": 44.32857347792991,
+            "Workstation 3": 44.32857347792991,
+            "Workstation 4": 44.32857347792991,
+            "Workstation 5": 44.32857347792991,
+            "Workstation 6": 44.32857347792991
+        },
+        "Production_rejection_by_number": 2,
+        "Production_rejection_percentage": 2.1052631578947367,
+        "Average_delay_time": 265.9714408675794,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 50.444343584393536,
+            "Workstation 2": 50.444343584393536,
+            "Workstation 3": 50.444343584393536,
+            "Workstation 4": 50.444343584393536,
+            "Workstation 5": 50.444343584393536,
+            "Workstation 6": 50.444343584393536
+        },
+        "Production_rejection_by_number": 6,
+        "Production_rejection_percentage": 6.666666666666667,
+        "Average_delay_time": 302.6660615063615,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 47.09666731397733,
+            "Workstation 2": 47.09666731397733,
+            "Workstation 3": 47.09666731397733,
+            "Workstation 4": 47.09666731397733,
+            "Workstation 5": 47.09666731397733,
+            "Workstation 6": 47.09666731397733
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.444444444444445,
+        "Average_delay_time": 282.5800038838639,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 92,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 42.57162399225626,
+            "Workstation 2": 42.57162399225626,
+            "Workstation 3": 42.57162399225626,
+            "Workstation 4": 42.57162399225626,
+            "Workstation 5": 42.57162399225626,
+            "Workstation 6": 42.57162399225626
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.434782608695652,
+        "Average_delay_time": 255.4297439535374,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 54.48828158469101,
+            "Workstation 2": 54.48828158469101,
+            "Workstation 3": 54.48828158469101,
+            "Workstation 4": 54.48828158469101,
+            "Workstation 5": 54.48828158469101,
+            "Workstation 6": 54.48828158469101
+        },
+        "Production_rejection_by_number": 7,
+        "Production_rejection_percentage": 7.6923076923076925,
+        "Average_delay_time": 326.92968950814605,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 86,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 45.11284264436041,
+            "Workstation 2": 45.11284264436041,
+            "Workstation 3": 45.11284264436041,
+            "Workstation 4": 45.11284264436041,
+            "Workstation 5": 45.11284264436041,
+            "Workstation 6": 45.11284264436041
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.813953488372093,
+        "Average_delay_time": 270.67705586616256,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 94,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 1.0,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 41.92426757660909,
+            "Workstation 2": 41.92426757660909,
+            "Workstation 3": 41.92426757660909,
+            "Workstation 4": 41.92426757660909,
+            "Workstation 5": 41.92426757660909,
+            "Workstation 6": 41.92426757660909
+        },
+        "Production_rejection_by_number": 6,
+        "Production_rejection_percentage": 6.382978723404255,
+        "Average_delay_time": 251.54560545965484,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 89,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 54.345700498386826,
+            "Workstation 2": 54.345700498386826,
+            "Workstation 3": 54.345700498386826,
+            "Workstation 4": 54.345700498386826,
+            "Workstation 5": 54.345700498386826,
+            "Workstation 6": 54.345700498386826
+        },
+        "Production_rejection_by_number": 6,
+        "Production_rejection_percentage": 6.741573033707865,
+        "Average_delay_time": 326.074202990321,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 93,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 46.6590730212028,
+            "Workstation 2": 46.6590730212028,
+            "Workstation 3": 46.6590730212028,
+            "Workstation 4": 46.6590730212028,
+            "Workstation 5": 46.6590730212028,
+            "Workstation 6": 46.6590730212028
+        },
+        "Production_rejection_by_number": 2,
+        "Production_rejection_percentage": 2.1505376344086025,
+        "Average_delay_time": 279.9544381272165,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 94,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 59.84119669839407,
+            "Workstation 2": 59.84119669839407,
+            "Workstation 3": 59.84119669839407,
+            "Workstation 4": 59.84119669839407,
+            "Workstation 5": 59.84119669839407,
+            "Workstation 6": 59.84119669839407
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.25531914893617,
+        "Average_delay_time": 359.0471801903653,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 96,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 1.0,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 42.77445905459897,
+            "Workstation 2": 42.77445905459897,
+            "Workstation 3": 42.77445905459897,
+            "Workstation 4": 42.77445905459897,
+            "Workstation 5": 42.77445905459897,
+            "Workstation 6": 42.77445905459897
+        },
+        "Production_rejection_by_number": 2,
+        "Production_rejection_percentage": 2.083333333333333,
+        "Average_delay_time": 256.64675432759395,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 93,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 1.0,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 45.7226925813748,
+            "Workstation 2": 45.7226925813748,
+            "Workstation 3": 45.7226925813748,
+            "Workstation 4": 45.7226925813748,
+            "Workstation 5": 45.7226925813748,
+            "Workstation 6": 45.7226925813748
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.301075268817205,
+        "Average_delay_time": 274.336155488249,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 49.79987604985248,
+            "Workstation 2": 49.79987604985248,
+            "Workstation 3": 49.79987604985248,
+            "Workstation 4": 49.79987604985248,
+            "Workstation 5": 49.79987604985248,
+            "Workstation 6": 49.79987604985248
+        },
+        "Production_rejection_by_number": 2,
+        "Production_rejection_percentage": 2.2222222222222223,
+        "Average_delay_time": 298.79925629911514,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 92,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 46.89671108556228,
+            "Workstation 2": 46.89671108556228,
+            "Workstation 3": 46.89671108556228,
+            "Workstation 4": 46.89671108556228,
+            "Workstation 5": 46.89671108556228,
+            "Workstation 6": 46.89671108556228
+        },
+        "Production_rejection_by_number": 3,
+        "Production_rejection_percentage": 3.260869565217391,
+        "Average_delay_time": 281.38026651337367,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 89,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 1.0,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 57.8591720576699,
+            "Workstation 2": 57.8591720576699,
+            "Workstation 3": 57.8591720576699,
+            "Workstation 4": 57.8591720576699,
+            "Workstation 5": 57.8591720576699,
+            "Workstation 6": 57.8591720576699
+        },
+        "Production_rejection_by_number": 10,
+        "Production_rejection_percentage": 11.235955056179774,
+        "Average_delay_time": 347.1550323460192,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 45.762198891661,
+            "Workstation 2": 45.762198891661,
+            "Workstation 3": 45.762198891661,
+            "Workstation 4": 45.762198891661,
+            "Workstation 5": 45.762198891661,
+            "Workstation 6": 45.762198891661
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.4945054945054945,
+        "Average_delay_time": 274.5731933499657,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.79922578807854,
+            "Workstation 2": 44.79922578807854,
+            "Workstation 3": 44.79922578807854,
+            "Workstation 4": 44.79922578807854,
+            "Workstation 5": 44.79922578807854,
+            "Workstation 6": 44.79922578807854
+        },
+        "Production_rejection_by_number": 7,
+        "Production_rejection_percentage": 7.777777777777778,
+        "Average_delay_time": 268.7953547284712,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 96,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 48.85049362479691,
+            "Workstation 2": 48.85049362479691,
+            "Workstation 3": 48.85049362479691,
+            "Workstation 4": 48.85049362479691,
+            "Workstation 5": 48.85049362479691,
+            "Workstation 6": 48.85049362479691
+        },
+        "Production_rejection_by_number": 1,
+        "Production_rejection_percentage": 1.0416666666666665,
+        "Average_delay_time": 293.10296174878164,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 86,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 38.897915395728134,
+            "Workstation 2": 38.897915395728134,
+            "Workstation 3": 38.897915395728134,
+            "Workstation 4": 38.897915395728134,
+            "Workstation 5": 38.897915395728134,
+            "Workstation 6": 38.897915395728134
+        },
+        "Production_rejection_by_number": 7,
+        "Production_rejection_percentage": 8.13953488372093,
+        "Average_delay_time": 233.38749237436875,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 87,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 47.25558785017433,
+            "Workstation 2": 47.25558785017433,
+            "Workstation 3": 47.25558785017433,
+            "Workstation 4": 47.25558785017433,
+            "Workstation 5": 47.25558785017433,
+            "Workstation 6": 47.25558785017433
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.747126436781609,
+        "Average_delay_time": 283.5335271010462,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 88,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 39.9738658058012,
+            "Workstation 2": 39.9738658058012,
+            "Workstation 3": 39.9738658058012,
+            "Workstation 4": 39.9738658058012,
+            "Workstation 5": 39.9738658058012,
+            "Workstation 6": 39.9738658058012
+        },
+        "Production_rejection_by_number": 6,
+        "Production_rejection_percentage": 6.8181818181818175,
+        "Average_delay_time": 239.84319483480704,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 60.590785677026254,
+            "Workstation 2": 60.590785677026254,
+            "Workstation 3": 60.590785677026254,
+            "Workstation 4": 60.590785677026254,
+            "Workstation 5": 60.590785677026254,
+            "Workstation 6": 60.590785677026254
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.395604395604396,
+        "Average_delay_time": 363.54471406215714,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 88,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 36.62271929340786,
+            "Workstation 2": 36.62271929340786,
+            "Workstation 3": 36.62271929340786,
+            "Workstation 4": 36.62271929340786,
+            "Workstation 5": 36.62271929340786,
+            "Workstation 6": 36.62271929340786
+        },
+        "Production_rejection_by_number": 10,
+        "Production_rejection_percentage": 11.363636363636363,
+        "Average_delay_time": 219.73631576044724,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 96,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 49.36281307454876,
+            "Workstation 2": 49.36281307454876,
+            "Workstation 3": 49.36281307454876,
+            "Workstation 4": 49.36281307454876,
+            "Workstation 5": 49.36281307454876,
+            "Workstation 6": 49.36281307454876
+        },
+        "Production_rejection_by_number": 3,
+        "Production_rejection_percentage": 3.125,
+        "Average_delay_time": 296.1768784472924,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 41.75660327462596,
+            "Workstation 2": 41.75660327462596,
+            "Workstation 3": 41.75660327462596,
+            "Workstation 4": 41.75660327462596,
+            "Workstation 5": 41.75660327462596,
+            "Workstation 6": 41.75660327462596
+        },
+        "Production_rejection_by_number": 9,
+        "Production_rejection_percentage": 9.89010989010989,
+        "Average_delay_time": 250.53961964775579,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 38.15229656244101,
+            "Workstation 2": 38.15229656244101,
+            "Workstation 3": 38.15229656244101,
+            "Workstation 4": 38.15229656244101,
+            "Workstation 5": 38.15229656244101,
+            "Workstation 6": 38.15229656244101
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.395604395604396,
+        "Average_delay_time": 228.9137793746461,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 95,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 50.521121243435054,
+            "Workstation 2": 50.521121243435054,
+            "Workstation 3": 50.521121243435054,
+            "Workstation 4": 50.521121243435054,
+            "Workstation 5": 50.521121243435054,
+            "Workstation 6": 50.521121243435054
+        },
+        "Production_rejection_by_number": 1,
+        "Production_rejection_percentage": 1.0526315789473684,
+        "Average_delay_time": 303.12672746061037,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 98,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.736636672062794,
+            "Workstation 2": 44.736636672062794,
+            "Workstation 3": 44.736636672062794,
+            "Workstation 4": 44.736636672062794,
+            "Workstation 5": 44.736636672062794,
+            "Workstation 6": 44.736636672062794
+        },
+        "Production_rejection_by_number": 2,
+        "Production_rejection_percentage": 2.0408163265306123,
+        "Average_delay_time": 268.41982003237666,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 1.0,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 43.741242746253484,
+            "Workstation 2": 43.741242746253484,
+            "Workstation 3": 43.741242746253484,
+            "Workstation 4": 43.741242746253484,
+            "Workstation 5": 43.741242746253484,
+            "Workstation 6": 43.741242746253484
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.395604395604396,
+        "Average_delay_time": 262.447456477521,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 87,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 1.0
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 56.33851123765762,
+            "Workstation 2": 56.33851123765762,
+            "Workstation 3": 56.33851123765762,
+            "Workstation 4": 56.33851123765762,
+            "Workstation 5": 56.33851123765762,
+            "Workstation 6": 56.33851123765762
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.747126436781609,
+        "Average_delay_time": 338.0310674259458,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 88,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 50.95752602731257,
+            "Workstation 2": 50.95752602731257,
+            "Workstation 3": 50.95752602731257,
+            "Workstation 4": 50.95752602731257,
+            "Workstation 5": 50.95752602731257,
+            "Workstation 6": 50.95752602731257
+        },
+        "Production_rejection_by_number": 8,
+        "Production_rejection_percentage": 9.090909090909092,
+        "Average_delay_time": 305.74515616387595,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.63819579247302,
+            "Workstation 2": 44.63819579247302,
+            "Workstation 3": 44.63819579247302,
+            "Workstation 4": 44.63819579247302,
+            "Workstation 5": 44.63819579247302,
+            "Workstation 6": 44.63819579247302
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.395604395604396,
+        "Average_delay_time": 267.82917475483805,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 95,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 52.75047633035681,
+            "Workstation 2": 52.75047633035681,
+            "Workstation 3": 52.75047633035681,
+            "Workstation 4": 52.75047633035681,
+            "Workstation 5": 52.75047633035681,
+            "Workstation 6": 52.75047633035681
+        },
+        "Production_rejection_by_number": 1,
+        "Production_rejection_percentage": 1.0526315789473684,
+        "Average_delay_time": 316.50285798214117,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 1.0,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 39.51156969647371,
+            "Workstation 2": 39.51156969647371,
+            "Workstation 3": 39.51156969647371,
+            "Workstation 4": 39.51156969647371,
+            "Workstation 5": 39.51156969647371,
+            "Workstation 6": 39.51156969647371
+        },
+        "Production_rejection_by_number": 8,
+        "Production_rejection_percentage": 8.88888888888889,
+        "Average_delay_time": 237.06941817884228,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 91,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.96852155726351,
+            "Workstation 2": 44.96852155726351,
+            "Workstation 3": 44.96852155726351,
+            "Workstation 4": 44.96852155726351,
+            "Workstation 5": 44.96852155726351,
+            "Workstation 6": 44.96852155726351
+        },
+        "Production_rejection_by_number": 7,
+        "Production_rejection_percentage": 7.6923076923076925,
+        "Average_delay_time": 269.81112934358066,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 94,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 58.69072574084128,
+            "Workstation 2": 58.69072574084128,
+            "Workstation 3": 58.69072574084128,
+            "Workstation 4": 58.69072574084128,
+            "Workstation 5": 58.69072574084128,
+            "Workstation 6": 58.69072574084128
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.319148936170213,
+        "Average_delay_time": 352.1443544450471,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 87,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 1.0
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 48.14255889044032,
+            "Workstation 2": 48.14255889044032,
+            "Workstation 3": 48.14255889044032,
+            "Workstation 4": 48.14255889044032,
+            "Workstation 5": 48.14255889044032,
+            "Workstation 6": 48.14255889044032
+        },
+        "Production_rejection_by_number": 10,
+        "Production_rejection_percentage": 11.494252873563218,
+        "Average_delay_time": 288.8553533426415,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 45.52590457246369,
+            "Workstation 2": 45.52590457246369,
+            "Workstation 3": 45.52590457246369,
+            "Workstation 4": 45.52590457246369,
+            "Workstation 5": 45.52590457246369,
+            "Workstation 6": 45.52590457246369
+        },
+        "Production_rejection_by_number": 6,
+        "Production_rejection_percentage": 6.666666666666667,
+        "Average_delay_time": 273.15542743478255,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 92,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 43.04068833392297,
+            "Workstation 2": 43.04068833392297,
+            "Workstation 3": 43.04068833392297,
+            "Workstation 4": 43.04068833392297,
+            "Workstation 5": 43.04068833392297,
+            "Workstation 6": 43.04068833392297
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.3478260869565215,
+        "Average_delay_time": 258.2441300035377,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 93,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 60.41790583613022,
+            "Workstation 2": 60.41790583613022,
+            "Workstation 3": 60.41790583613022,
+            "Workstation 4": 60.41790583613022,
+            "Workstation 5": 60.41790583613022,
+            "Workstation 6": 60.41790583613022
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.376344086021505,
+        "Average_delay_time": 362.507435016781,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 39.3995378648428,
+            "Workstation 2": 39.3995378648428,
+            "Workstation 3": 39.3995378648428,
+            "Workstation 4": 39.3995378648428,
+            "Workstation 5": 39.3995378648428,
+            "Workstation 6": 39.3995378648428
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.444444444444445,
+        "Average_delay_time": 236.39722718905693,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 93,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.213253952956805,
+            "Workstation 2": 44.213253952956805,
+            "Workstation 3": 44.213253952956805,
+            "Workstation 4": 44.213253952956805,
+            "Workstation 5": 44.213253952956805,
+            "Workstation 6": 44.213253952956805
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.376344086021505,
+        "Average_delay_time": 265.27952371774086,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 92,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 53.337967693203616,
+            "Workstation 2": 53.337967693203616,
+            "Workstation 3": 53.337967693203616,
+            "Workstation 4": 53.337967693203616,
+            "Workstation 5": 53.337967693203616,
+            "Workstation 6": 53.337967693203616
+        },
+        "Production_rejection_by_number": 2,
+        "Production_rejection_percentage": 2.1739130434782608,
+        "Average_delay_time": 320.027806159222,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 92,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 46.79886537971124,
+            "Workstation 2": 46.79886537971124,
+            "Workstation 3": 46.79886537971124,
+            "Workstation 4": 46.79886537971124,
+            "Workstation 5": 46.79886537971124,
+            "Workstation 6": 46.79886537971124
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.3478260869565215,
+        "Average_delay_time": 280.7931922782673,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 42.665974986539304,
+            "Workstation 2": 42.665974986539304,
+            "Workstation 3": 42.665974986539304,
+            "Workstation 4": 42.665974986539304,
+            "Workstation 5": 42.665974986539304,
+            "Workstation 6": 42.665974986539304
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.555555555555555,
+        "Average_delay_time": 255.9958499192358,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 90,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.31036267064577,
+            "Workstation 2": 44.31036267064577,
+            "Workstation 3": 44.31036267064577,
+            "Workstation 4": 44.31036267064577,
+            "Workstation 5": 44.31036267064577,
+            "Workstation 6": 44.31036267064577
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.555555555555555,
+        "Average_delay_time": 265.86217602387467,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 92,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 1.0,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 52.602253178450475,
+            "Workstation 2": 52.602253178450475,
+            "Workstation 3": 52.602253178450475,
+            "Workstation 4": 52.602253178450475,
+            "Workstation 5": 52.602253178450475,
+            "Workstation 6": 52.602253178450475
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.434782608695652,
+        "Average_delay_time": 315.613519070703,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 97,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 56.18604204974885,
+            "Workstation 2": 56.18604204974885,
+            "Workstation 3": 56.18604204974885,
+            "Workstation 4": 56.18604204974885,
+            "Workstation 5": 56.18604204974885,
+            "Workstation 6": 56.18604204974885
+        },
+        "Production_rejection_by_number": 2,
+        "Production_rejection_percentage": 2.0618556701030926,
+        "Average_delay_time": 337.11625229849324,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 92,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 40.38418534372754,
+            "Workstation 2": 40.38418534372754,
+            "Workstation 3": 40.38418534372754,
+            "Workstation 4": 40.38418534372754,
+            "Workstation 5": 40.38418534372754,
+            "Workstation 6": 40.38418534372754
+        },
+        "Production_rejection_by_number": 5,
+        "Production_rejection_percentage": 5.434782608695652,
+        "Average_delay_time": 242.30511206236505,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 96,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 44.35038436881732,
+            "Workstation 2": 44.35038436881732,
+            "Workstation 3": 44.35038436881732,
+            "Workstation 4": 44.35038436881732,
+            "Workstation 5": 44.35038436881732,
+            "Workstation 6": 44.35038436881732
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.166666666666666,
+        "Average_delay_time": 266.10230621290384,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 96,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 1.0
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 47.659642265019606,
+            "Workstation 2": 47.659642265019606,
+            "Workstation 3": 47.659642265019606,
+            "Workstation 4": 47.659642265019606,
+            "Workstation 5": 47.659642265019606,
+            "Workstation 6": 47.659642265019606
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.166666666666666,
+        "Average_delay_time": 285.95785359011785,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 95,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 45.025003431005835,
+            "Workstation 2": 45.025003431005835,
+            "Workstation 3": 45.025003431005835,
+            "Workstation 4": 45.025003431005835,
+            "Workstation 5": 45.025003431005835,
+            "Workstation 6": 45.025003431005835
+        },
+        "Production_rejection_by_number": 3,
+        "Production_rejection_percentage": 3.1578947368421053,
+        "Average_delay_time": 270.15002058603545,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 93,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 38.53944340210905,
+            "Workstation 2": 38.53944340210905,
+            "Workstation 3": 38.53944340210905,
+            "Workstation 4": 38.53944340210905,
+            "Workstation 5": 38.53944340210905,
+            "Workstation 6": 38.53944340210905
+        },
+        "Production_rejection_by_number": 6,
+        "Production_rejection_percentage": 6.451612903225806,
+        "Average_delay_time": 231.2366604126544,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 96,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 45.49983983424071,
+            "Workstation 2": 45.49983983424071,
+            "Workstation 3": 45.49983983424071,
+            "Workstation 4": 45.49983983424071,
+            "Workstation 5": 45.49983983424071,
+            "Workstation 6": 45.49983983424071
+        },
+        "Production_rejection_by_number": 3,
+        "Production_rejection_percentage": 3.125,
+        "Average_delay_time": 272.9990390054442,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 89,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 1.0,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 45.35384060467045,
+            "Workstation 2": 45.35384060467045,
+            "Workstation 3": 45.35384060467045,
+            "Workstation 4": 45.35384060467045,
+            "Workstation 5": 45.35384060467045,
+            "Workstation 6": 45.35384060467045
+        },
+        "Production_rejection_by_number": 7,
+        "Production_rejection_percentage": 7.865168539325842,
+        "Average_delay_time": 272.1230436280225,
+        "Accident_rate": 0.0
+    },
+    {
+        "Total_production_per_day": 93,
+        "Occupancy_per_workstation": {
+            "Workstation 1": 0.998,
+            "Workstation 2": 0.998,
+            "Workstation 3": 0.998,
+            "Workstation 4": 0.998,
+            "Workstation 5": 0.998,
+            "Workstation 6": 0.998
+        },
+        "Average_production_time_per_workstation": {
+            "Workstation 1": 42.3125247717778,
+            "Workstation 2": 42.3125247717778,
+            "Workstation 3": 42.3125247717778,
+            "Workstation 4": 42.3125247717778,
+            "Workstation 5": 42.3125247717778,
+            "Workstation 6": 42.3125247717778
+        },
+        "Production_rejection_by_number": 4,
+        "Production_rejection_percentage": 4.301075268817205,
+        "Average_delay_time": 253.87514863066684,
+        "Accident_rate": 0.0
+    }
+]
